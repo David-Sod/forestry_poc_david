@@ -21,50 +21,29 @@ Mainnet is out! Get the latest release at https://github.com/enigmampc/SecretNet
 
 </columns>
 
-<columns number="5" number-s="2" mode="slim">
+<columns mode="slim" number="2">
 <block>
 
-[<button>Homepage</button>](https://scrt.network)
+[<button> <block>Homepage</block ></button>](https://scrt.network)
 
-</block>
-<block>
+[<button><block >Blog</block > </button>](https://blog.scrt.network)
 
-[<button>Blog</button>](https://blog.scrt.network)
+[<button><block >Forum</block > </button>](https://forum.scrt.network)
 
-</block>
-<block>
-
-[<button>Forum</button>](https://forum.scrt.network)
-
-</block>
-<block>
-
-[<button>Wiki</button>](https://learn.scrt.network)
-
-</block>
-<block>
-
-[<button>Discord</button>](https://discord.com/invite/SJK32GY)
-
-</block>
-
-</columns>
-
-<columns weight="right" mode="slim" number="4">
-<block>
-
-[<button>Twitter</button>](https://twitter.com/SecretNetwork)
+[<button> <block >Wiki</block > </button>](https://learn.scrt.network)
 
 </block>
 
 <block>
 
-[<button>Community Telegram Channel</button>](https://t.me/SCRTnetwork)
+[<button> <block >Discord</block > </button>](https://discord.com/invite/SJK32GY)
+
+[<button><block >Twitter</block > </button>](https://twitter.com/SecretNetwork)
+
+[<button><block >Community Telegram Channel</block ></button>](https://t.me/SCRTnetwork)
+
+[<button> <block >Community Secret Nodes Telegram</block > </button>](https://t.me/secretnodes)
 
 </block>
-<block>
 
-[<button>Community Secret Nodes Telegram</button>](https://t.me/secretnodes)
-
-</block>
 </columns>
