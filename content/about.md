@@ -20,25 +20,24 @@ We are a descentralized
 
 <block>
 
-### How Can We Help
+### General Overview
 
-ACME is the trusted technology partner for the global Blockchain and life sciences industry. As the most mature and reliable cloud platform—with an extensive portfolio of Blockchain and life sciences solutions—ACME provides the security and privacy to operate in a highly regulated industry. With ACME, organizations can increase the pace of innovation, unlock the potential of data, and personalize the Blockchain journey.
 
-If you are interested in collaborating on a specific solution for your organization, please contact your ACME Account Manager, or if this is during business hours, use the click-to-chat service.
+Secret Network is a blockchain protocol that enables decentralized applications to perform encrypted computations. The Rust code that enables applications to use private data is referred to as a “Secret Contract” on Secret Network. Secret Contracts are similar to smart contracts, such as those used with Ethereum. The key difference is that Secret Contracts can take encrypted inputs and produce encrypted outputs, without exposing any data while it is in-use. In addition, a contract state (its internal, persisted database), remains encrypted throughout executions.
+
+Data on blockchains is public by default. This is a problem for applications which make use of sensitive information, such as user data, personally identifiable information (PII), votes, or moves in a game like rock-paper-scissors or poker. The Secret Network aims to solve this problem by enabling data-in-use privacy through private computation for decentralized applications.
+
+For example, a developer could create a voting application where individual votes are never revealed, but the overall results are provably correct. Additionally, a credit scoring application could generate a score based on verified data submitted by users, without ever seeing that sensitive data (or storing it on-chain). Many applications require data privacy, which is especially difficult to achieve in blockchain-based applications.
+
+The Secret Network is decentralized, so governance decisions are made collectively through votes conducted by the community. The network is run by delegators and validators who propose blocks according to a delegated proof-of-stake model. Node operators earn SCRT rewards for proposing new blocks. Users pay SCRT to the network as fees in order to have their transactions included.
+
+The Secret Network was built with the Cosmos SDK using Tendermint for consensus. Enigma is a company introducing a privacy-preserving applications and ecrypted computation services. As part of this work, Enigma is a core contributor to the Secret Network.
+
+To achieve data privacy, the Secret Network relies on a combination of key management and encryption protocols, along with Trusted Execution Environment (TEE) technology.
 
 </block>
 
 </columns>
-
-<columns mode="slim" number="2" number-s="1">
-
-<block>
-
-Learn about
-
-[Scalable Options](/)
-
-</block>
 
 </columns>
 
