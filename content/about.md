@@ -1,27 +1,17 @@
 <!-- Hero -->
 
 <columns mode="slim">
+<block>
 
-2021
-
-# About us
-
-We are a descentralized
-
+</block>
 </columns>
 
 <columns mode="slim">
-
-<block mode="full">
-
-![cover](./img/industrie-blockchain.jpg)
-
-</block>
-
 <block>
 
-### General Overview
+Update on March 25th 2021
 
+## General Overview
 
 Secret Network is a blockchain protocol that enables decentralized applications to perform encrypted computations. The Rust code that enables applications to use private data is referred to as a “Secret Contract” on Secret Network. Secret Contracts are similar to smart contracts, such as those used with Ethereum. The key difference is that Secret Contracts can take encrypted inputs and produce encrypted outputs, without exposing any data while it is in-use. In addition, a contract state (its internal, persisted database), remains encrypted throughout executions.
 
@@ -35,6 +25,8 @@ The Secret Network was built with the Cosmos SDK using Tendermint for consensus.
 
 To achieve data privacy, the Secret Network relies on a combination of key management and encryption protocols, along with Trusted Execution Environment (TEE) technology.
 
+![network_structure](./img/contracts.12ca1fff.png)
+
 </block>
 
 </columns>
@@ -43,10 +35,10 @@ To achieve data privacy, the Secret Network relies on a combination of key manag
 
 <columns mode="slim">
 
-### Get Started in ACME
+### Network Architecture
 
-It's easy to get started. Just get in contact to learn more.
+The Secret Network facilitates the execution of code (Secret Contracts) with strong correctness and privacy guarantees.
 
-<button>Contact us for the next steps</button>
+[<button class="red-box"> 🖧 More Info here ! </button>](/network)
 
 </columns>

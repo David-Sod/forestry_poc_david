@@ -7,8 +7,7 @@
           </g-link>
         <nav>
           <!-- <g-link to="/">Index</g-link> -->
-          <g-link to="/about">About</g-link> 
-          <g-link to="/network_structure">structure</g-link> 
+          <g-link to="/about">About</g-link>
         </nav>
       </simple-header>
     </template>
