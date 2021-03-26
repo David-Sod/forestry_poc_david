@@ -2,9 +2,11 @@
   <simple-layout>
     <template #header>
       <simple-header>
-        <img class="header__logo" src="@/assets/flare--white.png">
+          <g-link to="/">
+            <img class="header__logo" src="@/assets/flare--white.png">
+          </g-link>
         <nav>
-          <g-link to="/">Index</g-link>
+          <!-- <g-link to="/">Index</g-link> -->
           <g-link to="/about">About</g-link>
         </nav>
       </simple-header>
