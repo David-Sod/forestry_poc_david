@@ -24,4 +24,4 @@ fields:
     maxSize: 64
   label: image
 pages:
-- content/this.md.md
+- content/this.md
