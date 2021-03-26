@@ -9,4 +9,4 @@ text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 image: ''
 
 ---
-![](/content/img/forest.jpg)
+![forest](/content/img/forest.jpg "forest")
