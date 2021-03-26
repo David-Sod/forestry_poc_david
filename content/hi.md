@@ -12,4 +12,4 @@ image: "/img/website.png"
 
 ![](/img/forest.jpg)
 
-This page was created completly from scratch
+This page was created completely from scratch
