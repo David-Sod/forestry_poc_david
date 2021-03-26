@@ -9,7 +9,7 @@
 
 <columns mode="slim">
 
-## What is Secret Network? 🛹
+## What is Secret Network?
 
 Want to build a better internet? Solve for privacy.
 
