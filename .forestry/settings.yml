@@ -9,13 +9,13 @@ sections:
   label: forestry
   create: all
   match: "**/*"
-  new_doc_ext: ".vue , .md , .html , .js"
+  new_doc_ext: vue , .md , .html , .js
 - type: directory
   path: src
   label: src
   create: all
   match: "**/*"
-  new_doc_ext: vue , .md , .html , .js
+  new_doc_ext: ".vue , .md , .html , .js"
 - type: directory
   path: content
   label: content
